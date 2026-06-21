@@ -23,6 +23,4 @@ Variables (int)- Functions with parameters (flashLED)- The while loop- Digital o
 ## Author
  Audrey Nkansah Animwaa-2526401688
  
-## Author
- 
-[Your Full Name] — [Your Index Number]
+
